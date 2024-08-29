@@ -1,4 +1,4 @@
-[# Implementation-of-Linear-Regression-Using-Gradient-Descent
+# Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
@@ -22,8 +22,8 @@ Step 5.End
 
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: MAGATHI D 
-RegisterNumber:  212223040108
+Developed by: Harevasu S
+RegisterNumber:  212223230069
 */
 
 
@@ -98,4 +98,4 @@ PREDICTED VALUES:
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
-](https://github.com/23012925/Implementation-of-Linear-Regression-Using-Gradient-Descent)
+
