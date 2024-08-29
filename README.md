@@ -19,14 +19,14 @@ Step 4. IntiLiaze thhe program
 Step 5.End
 
 ## Program:
-
+```
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: Harevasu S
 RegisterNumber:  212223230069
 */
-
-
+```
+```
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -76,7 +76,7 @@ pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
 
-
+```
 
 ## Output:
 DATA.HEAD()
@@ -98,4 +98,3 @@ PREDICTED VALUES:
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
-
